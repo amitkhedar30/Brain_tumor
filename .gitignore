@@ -1,0 +1,14 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+
+# IDE stuff
+.vscode/
+
+# Keep these! (Commented out or deleted)
+checkpoints/
+# results/
+
+# Still ignore temporary/trash files
+archive*/
+*.zip
